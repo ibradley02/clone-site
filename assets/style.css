@@ -3,6 +3,15 @@
  color: white;
 }
 .blue{
- background-color: blue;
+ background-color: #469ae0;
  color: white;
+}
+.jumbotron{
+   color: white;
+   background-color: black;
+   background-image: url("https://media2.fdncms.com/boiseweekly/imager/u/magnum/5944763/picks_gaming_123rf.jpgSs");
+   background-image: no-repeat; 
+}
+*{
+    outline: red solid 1px
 }
