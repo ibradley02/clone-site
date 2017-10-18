@@ -10,8 +10,11 @@
    color: white;
    background-color: black;
    background-image: url("https://media2.fdncms.com/boiseweekly/imager/u/magnum/5944763/picks_gaming_123rf.jpgSs");
-   background-image: no-repeat; 
+   background-repeat: no-repeat; 
+   margin-bottom: 0;
+   background-size: cover;
 }
 *{
-    outline: red solid 1px
+    outline: red solid 1px;    
 }
+
